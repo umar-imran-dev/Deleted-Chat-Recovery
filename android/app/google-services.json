@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961049694739",
+    "project_id": "messagerecovernewme",
+    "storage_bucket": "messagerecovernewme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961049694739:android:8b0d86bf495d146f7325e6",
+        "android_client_info": {
+          "package_name": "recover.me.message.recover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN4Udz0bumvhmyQmVszRGcr8yFt30FOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

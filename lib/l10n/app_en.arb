@@ -1,0 +1,286 @@
+{
+  "@@locale": "en",
+  "settings": "Settings",
+  "general": "General",
+  "other": "Other",
+  "language": "Language",
+  "darkMode": "Dark Mode",
+  "darkModeSub": "Switch between light and dark theme",
+  "saveProfilePictures": "Save Profile Pictures",
+  "saveProfilePicturesSub": "Keep the sender photo shown in notifications",
+  "clearAllData": "Clear All Data",
+  "clearAllDataSub": "Delete all saved messages",
+  "clearAllDataText": "All saved messages and profile pictures will be deleted from this app. This cannot be undone.",
+  "allSavedMessagesDeleted": "All saved messages deleted",
+  "couldNotClearData": "Could not clear data: {error}",
+  "@couldNotClearData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restartService": "Restart Service",
+  "restartServiceSub": "If messages stop being saved",
+  "guide": "Guide",
+  "guideSub": "Learn how to use the app",
+  "privacyPolicy": "Privacy Policy",
+  "privacyPolicySub": "How your data is used",
+  "rateUs": "Rate Us",
+  "rateUsSub": "Support us with your valuable rating",
+  "shareApp": "Share App",
+  "shareAppSub": "Invite others to recover their messages",
+  "disclaimer": "Disclaimer",
+  "disclaimerSub": "Important information",
+  "feedback": "Feedback",
+  "feedbackSub": "Help us improve the app",
+  "aboutUs": "About Us",
+  "aboutUsSub": "Know more about the app",
+  "chooseLanguage": "Choose language",
+  "deviceLanguage": "Device language",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "submit": "Submit",
+  "maybeLater": "Maybe later",
+  "suggestedApps": "Suggested apps",
+  "otherApps": "Other apps",
+  "messageRecovery": "Message Recovery",
+  "keepRunningInBackground": "Keep the app running in the background",
+  "battery": "Battery",
+  "autoStart": "Auto-start",
+  "addMore": "Add more",
+  "allMessages": "All Messages",
+  "unreadMessages": "Unread Messages",
+  "connectAppFirst": "Connect an app first",
+  "supportComingSoon": "Support for this app is coming soon",
+  "allowNotificationAccess": "Allow Notification Access",
+  "allowNotificationAccessText": "We need notification access to recover deleted messages. Messages read here won’t show blue ticks.",
+  "allowPermission": "Allow Permission",
+  "noNotificationsYet": "No Notifications Yet",
+  "noNotificationsText": "We’ll show your message notifications here as soon as they arrive.",
+  "noUnreadMessages": "No Unread Messages",
+  "noUnreadText": "You’re all caught up. New messages will appear here.",
+  "navMessages": "Messages",
+  "navDeletedMedia": "Deleted Media",
+  "navSettings": "Settings",
+  "navCrown": "Crown",
+  "comingSoon": "Coming soon",
+  "rateEnjoying": "Enjoying {appName}?",
+  "@rateEnjoying": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "rateSubtitle": "Your rating helps us improve and helps others find the app.",
+  "rateTapStar": "Tap a star to rate",
+  "ratePoor": "Poor",
+  "rateFair": "Fair",
+  "rateGood": "Good",
+  "rateVeryGood": "Very good",
+  "rateExcellent": "Excellent",
+  "searchLanguage": "Search language...",
+  "deleteMessagesTitle": "Delete messages?",
+  "deleteMessagesText": "The selected messages will be deleted from this app only. They cannot be restored.",
+  "selectTooltip": "Select",
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "selectAll": "Select all",
+  "clearSelection": "Clear",
+  "deleteWithCount": "Delete ({count})",
+  "@deleteWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "chatEmpty": "No messages in this chat",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "selectApps": "Select Apps",
+  "searchApps": "Search apps...",
+  "appsHeading": "Apps",
+  "next": "Next",
+  "pickAtLeastOneApp": "Pick at least one app",
+  "restartingService": "Restarting service...",
+  "serviceRestarted": "Service restarted. New messages will be saved again.",
+  "notificationAccessOffTitle": "Notification access is off",
+  "notificationAccessOffText": "Turn on Notification access for this app, otherwise it cannot save messages.",
+  "restartNotConfirmedTitle": "Restart not confirmed",
+  "restartNotConfirmedText": "The restart was requested but the service did not confirm. Open Notification access, switch this app off and on again, then come back.",
+  "close": "Close",
+  "openSettings": "Open settings",
+  "couldNotOpenPlayStore": "Could not open Google Play",
+  "noEmailApp": "No email app found",
+  "premiumRecoverMessages": "Recover Deleted Messages",
+  "premiumRecoverMedia": "Recover Deleted Media",
+  "premiumRemoveAds": "Remove Ads",
+  "premiumPrioritySupport": "Priority Customer Support",
+  "premiumUnlimitedRecovery": "Unlimited Data Recovery",
+  "planPro": "Pro",
+  "planBasic": "Basic",
+  "goPremium": "Go Premium",
+  "goPremiumSubtitle": "Unlock all features and get the best recovery experience.",
+  "premiumPricePerWeek": "{price} / Weekly",
+  "@premiumPricePerWeek": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTrialNote": "after FREE 3-days trial ends",
+  "startFreeTrial": "Start Free Trial",
+  "autoRenewNote": "Subscription will auto-renew, Cancel anytime.",
+  "guideIntro": "Follow these steps once and {appName} will keep a copy of your incoming messages.",
+  "@guideIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "guideStep": "Step {number}",
+  "@guideStep": {
+    "placeholders": {
+      "number": {
+        "type": "int"
+      }
+    }
+  },
+  "guideStep1Title": "Connect your apps",
+  "guideStep1Text": "On the home screen tap an app, or choose “{otherApps}” to pick several at once. You can add more apps later with the “{addMore}” button.",
+  "@guideStep1Text": {
+    "placeholders": {
+      "otherApps": {
+        "type": "String"
+      },
+      "addMore": {
+        "type": "String"
+      }
+    }
+  },
+  "guideStep2Title": "Allow notification access",
+  "guideStep2Text": "The app can only save a message when it can read the notification that the other app shows. Open the list below, find this app and switch it on.",
+  "guideOpenNotificationAccess": "Open Notification access",
+  "guideStep3Title": "Keep it running in the background",
+  "guideStep3Text": "Some phones close background apps to save battery, which can make you miss messages. Allow this app to run without battery restrictions and, if your phone has it, turn on Auto-start.",
+  "guideStep4Title": "What gets saved",
+  "guideStep4Text": "Keep these points in mind:",
+  "guideSaved1": "Keep notifications on for the chats you care about. Muted chats cannot be saved.",
+  "guideSaved2": "A message is not saved if you were already looking at that chat.",
+  "guideSaved3": "Only text is saved. Photos, voice messages and calls are not recovered.",
+  "guideStep5Title": "Read your saved messages",
+  "guideStep5Text": "Open the “{messagesTab}” tab, pick an app at the top, then tap a person to see the saved conversation. Use “{unreadMessages}” to see chats you have not opened yet.",
+  "@guideStep5Text": {
+    "placeholders": {
+      "messagesTab": {
+        "type": "String"
+      },
+      "unreadMessages": {
+        "type": "String"
+      }
+    }
+  },
+  "guideStep6Title": "Delete messages",
+  "guideStep6Text": "Press and hold a message, or tap the select icon at the top. Choose messages or “{selectAll}”, then tap “{delete}”. To remove everything at once, use “{settings}” > “{clearAll}”.",
+  "@guideStep6Text": {
+    "placeholders": {
+      "selectAll": {
+        "type": "String"
+      },
+      "delete": {
+        "type": "String"
+      },
+      "settings": {
+        "type": "String"
+      },
+      "clearAll": {
+        "type": "String"
+      }
+    }
+  },
+  "guideStep7Title": "Something not saving?",
+  "guideStep7Text": "Try these in order:",
+  "guideFix1": "Check that Notification access is on.",
+  "guideFix2": "Check the battery and Auto-start settings above.",
+  "guideFix3": "Make sure notifications are not muted for that chat.",
+  "guideFix4": "Restart the service with the button below.",
+  "readDisclaimer": "Read the disclaimer",
+  "ourStory": "Our story",
+  "aboutStory1": "{appName} was built for a simple reason: an important message should not be lost just because someone deleted it. The app keeps a copy of the messages that arrive on your phone, organized by app and by person, so you can read them later.",
+  "@aboutStory1": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "aboutStory2": "It works by reading the notifications on your own phone, with your permission, and your saved messages stay on your device.",
+  "highlights": "Highlights",
+  "featureOrganizedTitle": "Organized chats",
+  "featureOrganizedText": "Messages are grouped by app and by person, just like the apps you already use.",
+  "featurePrivateTitle": "Private by design",
+  "featurePrivateText": "Saved messages stay on your phone and are never uploaded to our servers.",
+  "featureBackgroundTitle": "Works in the background",
+  "featureBackgroundText": "Keeps saving new messages even when the app is closed, as long as your phone allows it.",
+  "featureControlTitle": "You stay in control",
+  "featureControlText": "Delete any message or chat, or turn off access, whenever you like.",
+  "worksWith": "Works with",
+  "legalSupport": "Legal & support",
+  "contactUs": "Contact us",
+  "versionLabel": "Version {version}",
+  "@versionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "allRightsReserved": "© {year} {developer}. All rights reserved.",
+  "@allRightsReserved": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      },
+      "developer": {
+        "type": "String"
+      }
+    }
+  },
+  "notAffiliated": "Not affiliated with WhatsApp, Meta, Snapchat, TikTok or any other app mentioned.",
+  "shareMessage": "Keep a copy of your incoming messages, even if they are deleted later.",
+  "navStatus": "Status",
+  "statusAllowTitle": "Allow access to the Status folder",
+  "statusAllowText": "To show WhatsApp statuses, choose the Status folder once. The app only reads this folder and nothing is uploaded.",
+  "statusChangeFolder": "Change folder",
+  "statusWrongFolder": "That doesn’t look like the Status folder. Please try again.",
+  "statusEmptyTitle": "No statuses found",
+  "statusEmptyText": "Open WhatsApp and view a few statuses first, then come back and pull down to refresh.",
+  "statusSaved": "Saved to your gallery",
+  "statusSaveFailed": "Could not save this status",
+  "saveAction": "Save",
+  "statusOnlyWhatsApp": "Only WhatsApp statuses can be saved. Facebook and Instagram stories are not stored on your phone, so this app cannot save them.",
+  "statusRespectNote": "Please save only content you have the right to use.",
+  "statusChooseFolder": "Allow access",
+  "deleteChatsTitle": "Delete chats?",
+  "deleteChatsText": "The selected chats and all their saved messages will be deleted from this app only. They cannot be restored.",
+  "statusViewedNote": "Any status you view in WhatsApp will appear here, and you can save it.",
+  "premiumPriceLine": "{price} / month",
+  "@premiumPriceLine": {
+    "placeholders": { "price": { "type": "String" } }
+  },
+  "premiumPriceUnavailable": "Price unavailable. Please try again later.",
+  "subscribeNow": "Subscribe",
+  "restorePurchases": "Restore purchases",
+  "youArePremium": "You are Premium. Thank you!",
+  "premiumSaveAnyStatus": "Save any status"
+}
